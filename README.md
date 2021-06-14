@@ -68,6 +68,9 @@ Thanks for viewing my profile, if you have **any questions**, feel free to **con
     <img src="https://img.shields.io/badge/photoshop-333?label=&style=for-the-badge&logo=adobephotoshop">
   </a>
 </p>
+                                                                                                        
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
                                                                                                                                
 <hr>
 <p align = "left">
