@@ -74,6 +74,6 @@ Thanks for viewing my profile, if you have **any questions**, feel free to **con
                                                                                                                                
 <hr>
 <p align = "left">
-  <img src = "http://github-readme-streak-stats.herokuapp.com?user=coldlombax&ring=00ACDD&fire=0083A9&sideLabels=00ACDD&currStreakLabel=0083A9" width=450>
-  <img src = "https://github-readme-stats.vercel.app/api?username=coldlombax&title_color=00ACDDFF&show_icons=true&icon_color=0083A9" width=450>
+  <img src = "http://github-readme-streak-stats.herokuapp.com?user=coldlombax&ring=00ACDD&fire=0083A9&sideLabels=00ACDD&currStreakLabel=0083A9" width=400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=coldlombax&title_color=00ACDDFF&show_icons=true&icon_color=0083A9" width=400>
 </p>
