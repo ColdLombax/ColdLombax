@@ -67,6 +67,9 @@ Thanks for viewing my profile, if you have **any questions**, feel free to **con
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="blank"> 
     <img src="https://img.shields.io/badge/photoshop-333?label=&style=for-the-badge&logo=adobephotoshop">
   </a>
+  <a href="https://www.figma.com/files/recent?fuid=938221243420755238" target="blank"> 
+    <img src="https://img.shields.io/badge/figma-333?label=&style=for-the-badge&logo=figma">
+  </a>
 </p>
                                                                                                         
 <!--START_SECTION:waka-->
