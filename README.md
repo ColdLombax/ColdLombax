@@ -60,11 +60,14 @@ Thanks for viewing my profile, if you have **any questions**, feel free to **con
   <a href="https://angular.io/" target="blank"> 
     <img src="https://img.shields.io/badge/angular-333?label=&style=for-the-badge&logo=angular">
   </a>
+  <a href="https://angular.io/" target="blank"> 
+    <img src="https://img.shields.io/badge/webpack-333?label=&style=for-the-badge&logo=webpack">
+  </a>
 </p>
                                                                                                          
 #### Extras
 <p align = "left">
-   <a href="https://code.visualstudio.com/" target="blank"> 
+   <a href="https://webpack.js.org/" target="blank"> 
     <img src="https://img.shields.io/badge/Framework-visual studio code-333?label=&style=for-the-badge&logo=visualstudiocode">
   </a>
   <a href="https://unity.com/" target="blank"> 
