@@ -41,6 +41,9 @@ Thanks for viewing my profile, if you have **any questions**, feel free to **con
   <a href="https://git-scm.com/" target="blank"> 
     <img src="https://img.shields.io/badge/git-333?label=&style=for-the-badge&logo=git">
   </a>
+  <a href="https://tailwindcss.com/" target="blank"> 
+    <img src="https://img.shields.io/badge/tailwind-333?label=&style=for-the-badge&logo=tailwindcss">
+  </a>
 </p>
                                                                                                  
 #### Familiar
