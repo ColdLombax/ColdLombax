@@ -1,6 +1,9 @@
 <img src="./assets/banner.png">
 
 # Hello & Welcome.
+My current focus is **Mastering React**.
+
+I'm interested in all things **Frontend**, I really enjoy **learning and expanding my toolbox**. I want to atleast be familiar with most concepts, tools and langauges.
 
 Thanks for viewing my profile, if you have **any questions**, feel free to **contact me!**
 <p align = "left">
